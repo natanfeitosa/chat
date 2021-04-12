@@ -1,0 +1,15 @@
+{
+  "ignore": [
+    "test/*",
+    "docs/*",
+    "node_modules/*",
+    ".babelrc",
+    ".editorconfig",
+    ".eslintcache",
+    ".eslint.js",
+    ".gitignore",
+    ".pretierrc",
+    "*.md"
+  ],
+  "restartable": false
+}
